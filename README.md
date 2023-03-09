@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saikrishnathonduru
 - 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision and Data Science
-- 🌱 I’m currently learning Cloud technologies [AWS]
-- 💞️ I’m actively looking for full-time opportunities in above mentioned domains as a Junior level or trainee
+- 🌱 I’m currently learning Cloud technologies [AWS, Azure]
+- 💞️ I’m actively looking for full-time opportunities in above mentioned domains as a Junior Machine Learning Engineer or Data scientist.
 - 📫 Reach me via Email - thondurusaikrishna@gmail.com & LinkedIn -https://www.linkedin.com/in/saikrishna-thonduru/
 
 <!---
